@@ -22,7 +22,7 @@ Preprint available: https://www.researchsquare.com/article/rs-3034274/latest
   - 1.7 µs trajectory snapshots at 0.5 ns intervals.
 - AF2
   - Contains all three models discussed in the paper.
-  - Contains a cis proline version model 2, obtained through a 10 ns MD simulation.
+  - Contains a cis proline version model 2, obtained through a 1 ns MD simulation.
 - Bioinformatics
   - AD scores for DREB2A tiles
   - Alignment of DREB2A used to obtain the ABS motif. Some sequences were removed in the paper representation to reduce visual size of alignment.
