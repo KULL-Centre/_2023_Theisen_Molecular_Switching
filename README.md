@@ -22,7 +22,8 @@ Preprint available: https://www.researchsquare.com/article/rs-3034274/latest
 - AF2
   - Contains all three models discussed in the paper.
   - Contains a cis proline version model 2, obtained through a 10 ns MD simulation.
-- Alignments
+- Bioinformatics
+  - AD scores for DREB2A tiles
   - Alignment of DREB2A used to obtain the ABS motif. Some sequences were removed in the paper representation to reduce visual size of alignment.
   - Alignment of plant Med25ACID domains used for surface residue evolutional conservation.
   
