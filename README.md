@@ -8,15 +8,15 @@ Preprint available: https://www.researchsquare.com/article/rs-3034274/latest
 # Data Description #
 - NMR
   - DREB2A NMR data contains CEST profiles in a raw format. WT DREB2A was recorded using 500 µM DREB2A and 25 µM Med25ACID. Carbon CEST profiles were recorded at 25 °C.
-  - Med25ACID NMR data contains chemical shifts. Data was obtained at 25 °C at pH 6.5 using BestTrosy pulse sequences.
+  - Med25ACID NMR data contains chemical shifts of the unbound state and D2a titrations, relaxation rates and hetNOEs. Assignment and titration data was obtained at 25 °C at pH 6.5 using BestTrosy pulse sequences.
 - ITC
   - Raw .itc files are provided. Concentrations given in file should be correct.
   - Spolar Record structuring analysis data is also provided in an Excel file.
 - Stopped-flow
-  - Contains raw traces. Indicated concentrations are post mixing concentations.
+  - Contains raw fluorescence traces. Indicated concentrations are post mixing concentations.
   - Contains observed rate constants.
 - SAXS
-  - Buffer subtracted scattering curve obtained from SEC-SAXS.
+  - Buffer subtracted scattering curve of Med25ACID_532-680 obtained from SEC-SAXS.
 - MD
   - 1.7 µs trajectory snapshots at 0.5 ns intervals.
 - AF2
