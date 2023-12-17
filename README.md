@@ -29,6 +29,6 @@ Preprint available: https://www.researchsquare.com/article/rs-3034274/latest
   - Alignment of plant Med25ACID domains used for surface residue evolutional conservation.
   
 # Figure Source Data
-Contains data for reproduction of most data element present in figures.
+Contains data for reproduction of most data elements present in main figures.
 Example data such as example CEST profiles or kinetic traces are not included.
 Figure 4 Med25ACID CSPs are found in Fig 3 source data.
