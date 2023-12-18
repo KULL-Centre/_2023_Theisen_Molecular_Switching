@@ -16,6 +16,7 @@ Preprint available: https://www.researchsquare.com/article/rs-3034274/latest
 - Stopped-flow
   - Contains raw fluorescence traces. Indicated concentrations are post mixing concentations.
   - Contains observed rate constants.
+  - Includes biological replicate data for ABS-RIM association: indivudally fitted trace k_obs
 - SAXS
   - Buffer subtracted scattering curve of Med25ACID_532-680 obtained from SEC-SAXS.
 - MD
