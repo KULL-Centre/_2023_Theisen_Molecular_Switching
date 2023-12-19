@@ -29,8 +29,7 @@ Preprint available: https://www.researchsquare.com/article/rs-3034274/latest
   - Alignment of DREB2A used to obtain the ABS motif. Some sequences were removed in the paper representation to reduce visual size of alignment.
   - Alignment of plant Med25ACID domains used for surface residue evolutional conservation.
   
-# Figure Source Data
-Contains data for reproduction of most data elements present in main and supplementary figures.
-Example data such as example CEST profiles or raw kinetic traces are not included.
+# Source Data
+Contains data for reproduction of most data elements present in main and supplementary figures and tables.
 
-Data for tables are also included in an Excel format.
+Example data such as example CEST profiles or raw kinetic traces are not included in the source data files. This data can be obtained from the data files in their respective directories.
