@@ -3,7 +3,10 @@ This repository contains the data files related to our manuscript "Molecular swi
 
 **Manuscript Status**: Under review.
 
-**Preprint**: [Research Square](https://www.researchsquare.com/article/rs-3034274/latest)
+**Preprint**: [Research Square](https://www.researchsquare.com/article/rs-3034274/latest) 
+
+
+
 
 ## Data Description
 This repository is organized into several sections, each representing a different aspect of our study:
@@ -46,3 +49,8 @@ For questions regarding data access and usage, please contact corresponding auth
 ## Citation Information
 If you use this data in your research, please cite the paper.
 This repository can be cited using DOIs available in under each specific release.
+
+Prepublication release:
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10376118.svg)](https://doi.org/10.5281/zenodo.10376118)
