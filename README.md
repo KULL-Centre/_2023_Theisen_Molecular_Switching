@@ -13,6 +13,7 @@ This repository is organized into several sections, each representing a differen
     - For assistance with processing of CEST data, contact authors.
   - Med25ACID NMR data contains chemical shifts of the unbound state and D2a titrations, relaxation rates and hetNOEs. Assignment and titration data was obtained at 25 °C at pH 6.5 using BestTrosy pulse sequences.
     - Also contains MICS output for free Med25ACID and Med25ACID with DREB2A ABS.
+    - Titrations>CSP Excel files contains Med25ACID CSPs for the three DREB2A fragment titrations.
 
 ### ITC (Isothermal Titration Calorimetry)
   - Raw .itc files are provided. Concentrations given in file should be correct.
