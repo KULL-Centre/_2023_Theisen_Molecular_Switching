@@ -8,6 +8,7 @@ Preprint available: https://www.researchsquare.com/article/rs-3034274/latest
 # Data Description #
 - NMR
   - DREB2A NMR data contains CEST profiles in a raw format. WT DREB2A was recorded using 500 µM DREB2A and 25 µM Med25ACID. Carbon CEST profiles were recorded at 25 °C.
+  - For assistance with processing of CEST data, contact authors.
   - Med25ACID NMR data contains chemical shifts of the unbound state and D2a titrations, relaxation rates and hetNOEs. Assignment and titration data was obtained at 25 °C at pH 6.5 using BestTrosy pulse sequences.
     - Also contains MICS output for free Med25ACID.
 - ITC
@@ -32,4 +33,4 @@ Preprint available: https://www.researchsquare.com/article/rs-3034274/latest
 # Source Data
 Contains data for reproduction of most data elements present in main and supplementary figures and tables.
 
-Example data such as example CEST profiles or raw kinetic traces are not included in the source data files. This data can be obtained from the data files in their respective directories.
+Example data such as example CEST profiles or averaged kinetic traces are not always included in the source data files. This data can be obtained from the data files in their respective directories.
