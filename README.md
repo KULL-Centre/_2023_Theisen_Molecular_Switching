@@ -28,7 +28,7 @@ This repository is organized into several sections, each representing a differen
   - Buffer subtracted scattering curve of Med25ACID_532-680 obtained from SEC-SAXS.
 
 ### MD (Molecular Dynamics)
-  - 1.7 µs trajectory snapshots at 0.5 ns intervals.
+  - 1.7 µs trajectory of Med25-ACID 548-680 as frames at 0.5 ns intervals.
 
 ### Med25ACID:DREB2A Complex Models
   - Contains all three AF2 models discussed in the paper.
