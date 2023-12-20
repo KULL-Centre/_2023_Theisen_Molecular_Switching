@@ -49,5 +49,8 @@ If you use this data in your research, please cite the paper.
 This repository can be cited using DOIs available in under each specific release.
 
 **Releases**\
+*Publication, v2.0*\
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10409674.svg)](https://doi.org/10.5281/zenodo.10409674)
+
 *Prepublication, v1.0:* \
 [![](https://zenodo.org/badge/DOI/10.5281/zenodo.10376118.svg)](https://doi.org/10.5281/zenodo.10376118)
