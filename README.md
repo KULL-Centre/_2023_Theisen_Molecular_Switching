@@ -1,5 +1,5 @@
 # _2023_Theisen_Molecular_Switching
-This repository contains the data files related to our manuscript "Molecular switching in transcription through splicing and proline-isomerization regulates stress responses in plants" by Theisen et al., 2023. This study explores the molecular mechanisms of transcriptional regulation in plant stress responses, offering new insights into proline-isomerization and its impact on regulation.
+This repository contains the data files related to our manuscript "Molecular switching in transcription through splicing and proline-isomerization regulates stress responses in plants" by Theisen et al., 2023. The study explores the molecular mechanisms of transcriptional regulation in plant stress responses, offering new insights into proline-isomerization and its impact on regulation. Binding studies were used to identify a bivalent region of the transcription factor DREB2A responsible for the interaction with the ACID domain of the mediator complex component Med25. In addition, NMR and AF2 modelling is combined to produce and verify a complex structure of the mediator complex component Med25-ACID and the trancsription factor DREB2A. Due to heterogeneous complex structure, Med25-ACID:TF complexes are hard to study. Here we use CEST NMR to explore the bound state of DREB2A.
 
 **Manuscript Status**: Under review.
 
