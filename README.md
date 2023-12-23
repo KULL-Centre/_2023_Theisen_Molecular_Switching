@@ -47,7 +47,7 @@ For questions regarding data access and usage, please contact corresponding auth
 
 ## Citation Information
 If you use this data in your research, please cite the paper.
-This repository can be cited using DOIs available in under each specific release.
+This repository can be cited using DOIs available in under each specific release or a DOI that will always points to the latest release: 10.5281/zenodo.10376117
 
 **Releases**\
 *Publication, v2.0*\
