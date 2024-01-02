@@ -51,9 +51,13 @@ For questions regarding data access and usage, please contact corresponding auth
 
 ## Citation Information
 If you use this data in your research, please cite the paper.
-This repository can be cited using DOIs available in under each specific release or a DOI that will always points to the latest release: 10.5281/zenodo.10376117
+This repository can be cited using the 'Latest Release' DOI or DOIs available in under each specific release.
 
-**Releases**\
+**Latest Release**\
+*Static DOI that always points toward the latest release*\
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10376117.svg)](https://doi.org/10.5281/zenodo.10376117)
+
+**Specific Releases**\
 *Publication, v2.0*\
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10409674.svg)](https://doi.org/10.5281/zenodo.10409674)
 
