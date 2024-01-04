@@ -42,6 +42,7 @@ This repository is organized into several sections, each representing a differen
   - Alignment of DREB2A used to obtain the ABS motif. Some sequences were removed in the paper representation to reduce visual size of alignment.
   - Alignment of plant Med25ACID domains used for surface residue evolutional conservation.
   - Protein sequences of Med25ACID 532-680 and key DREB2A fragments
+  - Sequences defining the ABS motif
   
 ## Source Data
 This section contains data essential for replicating most findings presented in the main and supplementary figures and tables of our manuscript. Note that example data such as averaged kinetic traces might not be included but can be derived from the comprehensive datasets in respective directories.
