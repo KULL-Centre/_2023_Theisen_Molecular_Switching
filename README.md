@@ -26,7 +26,7 @@ This repository is organized into several sections, each representing a differen
 ### Stopped-Flow (Fluorescence Kinetics)
   - Contains raw fluorescence traces. Indicated concentrations are post mixing concentations.
   - Contains observed rate constants.
-  - Includes biological replicate data for ABS-RIM association: indivudally fitted trace k_obs of four concentrations between 2 and 3.5 µM.
+  - Includes biological replicate data for ABS-RIM association: individually fitted trace k_obs of four concentrations between 2 and 3.5 µM.
 
 ### SAXS (Small Angle X-ray Scattering)
   - Buffer subtracted scattering curve of Med25ACID_532-680 obtained from SEC-SAXS.
