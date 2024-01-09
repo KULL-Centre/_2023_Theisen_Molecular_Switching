@@ -48,7 +48,7 @@ This repository is organized into several sections, each representing a differen
 This section contains data essential for replicating most findings presented in the main and supplementary figures and tables of our manuscript. Note that example data such as averaged kinetic traces might not be included but can be derived from the comprehensive datasets in respective directories.
 
 ## Accessibility and Use
-For questions regarding data access and usage, please contact corresponding author.
+For questions regarding data access and usage, please contact a corresponding author or post an 'Issue' here.
 
 ## Citation Information
 If you use this data in your research, please cite the paper.
