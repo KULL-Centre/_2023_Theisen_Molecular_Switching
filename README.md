@@ -54,7 +54,7 @@ For questions regarding data access and usage, please contact a corresponding au
 If you use this data in your research, please cite the paper.
 
 
-This repository can be cited using bibtext entry below, the 'Latest Release' DOI or DOIs available in under each specific release.
+This repository can be cited using bibtex entry below, the 'Latest Release' DOI or DOIs available in under each specific release.
 
 ```
 @misc{,
