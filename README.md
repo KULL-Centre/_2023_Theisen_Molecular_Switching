@@ -53,6 +53,20 @@ For questions regarding data access and usage, please contact a corresponding au
 ## Citation Information
 If you use this data in your research, please cite the paper.
 
+```
+@article{,
+   author = {Frederik Friis Theisen and Andreas Prestel and Steffie Elkjaer and Yannick H A Leurs and Nicholas Morffy and Lucia C Strader and Kaare Teilum and Birthe B Kragelund and Karen Skriver},
+   doi = {10.1038/s41467-024-44859-2},
+   issue = {592},
+   journal = {Nature Communications},
+   title = {Molecular switching in transcription through splicing and proline-isomerization regulates stress responses in plants},
+   volume = {15},
+   url = {https://doi.org/10.1038/s41467-024-44859-2},
+   year = {2024},
+}
+
+```
+
 
 This repository can be cited using bibtex entry below, the 'Latest Release' DOI or DOIs available in under each specific release.
 
