@@ -5,7 +5,7 @@ Key findings include the identification of a bivalent region in the transcriptio
 
 The data are foundational in understanding these intricate interactions, offering a valuable resource for advancing our knowledge in the field of plant stress response regulation and mediator interactions.
 
-**Manuscript Status**: [Published in Nature Communications, Jan. 18th, 2024](doi.org/10.1038/s41467-024-44859-2)
+**Manuscript Status**: [Published in Nature Communications, Jan. 18th, 2024](https://rdcu.be/dDwpV)
 
 **Preprint**: [Research Square](https://www.researchsquare.com/article/rs-3034274/latest) 
 
