@@ -10,7 +10,7 @@ The data are foundational in understanding these intricate interactions, offerin
 **Preprint**: [Research Square](https://www.researchsquare.com/article/rs-3034274/latest) 
 
 ## Data Description
-This repository is organized into several sections, each representing a different aspect of our study:
+This repository is organized into several folders depending on the data type.
 
 ### NMR (Nuclear Magnetic Resonance)
   - DREB2A NMR data contains CEST profiles in a raw format. WT DREB2A was recorded using 500 µM DREB2A and 25 µM Med25ACID. Carbon CEST profiles were recorded at 25 °C.
@@ -48,7 +48,7 @@ This repository is organized into several sections, each representing a differen
 This section contains data essential for replicating most findings presented in the main and supplementary figures and tables of our manuscript. Note that example data such as averaged kinetic traces might not be included but can be derived from the comprehensive datasets in respective directories.
 
 ## Accessibility and Use
-For questions regarding data access and usage, please contact a corresponding author or post an 'Issue' here.
+For questions regarding data access and usage, please contact a corresponding author or post an 'issue' here.
 
 ## Citation Information
 If you use this data in your research, please cite the paper.
